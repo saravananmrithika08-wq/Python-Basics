@@ -13,6 +13,7 @@ for Biomedical Engineering applications.
 | File | Description                                                 |
 |------|-------------------------------------------------------------|
 | hello.py | My first Python script — print statements and variables |
+| bmi_calculator.py | Clinical BMI calculator with weight category interpretation |
 
 ## 🛠️ Language Used
 Python 3.x
