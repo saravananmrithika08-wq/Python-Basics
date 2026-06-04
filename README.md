@@ -9,7 +9,7 @@ for Biomedical Engineering applications.
 - **College:** Easwari Engineering College, Anna University
 
 ## 📁 Scripts
-|--------------------------------------------------------------------|
+
 | File | Description                                                 |
 |------|-------------------------------------------------------------|
 | hello.py | My first Python script — print statements and variables |
